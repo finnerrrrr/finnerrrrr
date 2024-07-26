@@ -21,10 +21,10 @@
 
 <div align="center">
   <a href="mailto:elginsong18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD" alt="Email Badge">
+    <img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a href="www.linkedin.com/in/elgin-song-2aba61272">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=3A3B3C&color=0A66C2" alt="LinkedIn Badge">
+  <a href="https://www.linkedin.com/in/elgin-song-2aba61272">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </div>
   
