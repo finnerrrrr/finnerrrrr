@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 style="text-align: center;">Second-Year Computing Student Majoring in Business Analytics!</h3>
+<h3 align = "center"> Second-Year Computing Student Majoring in Business Analytics! </h3>
 
 <br/>
 
