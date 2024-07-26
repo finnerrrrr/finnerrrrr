@@ -34,10 +34,11 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql,r,python,excel,java,js,html,css,react,firebase,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=sql,r,python,postgresql,java,js,html,css,react,firebase,vscode,github" />
   </a>
 </div>
 
+<br/>
 <hr/>
 
 
