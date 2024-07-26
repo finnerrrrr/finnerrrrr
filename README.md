@@ -15,7 +15,7 @@
   
   🌱 I’m currently learning **SQL, Excel, Python & Java**
   
-  💬 Ask me about **What Business Analysts even do?... or anything [here](https://github.com/finnerrrrr/finnerrrrr/issues)**
+  💬 Ask me about **What do Business Analysts even do?... or anything [here!](https://github.com/finnerrrrr/finnerrrrr/issues)**
 
 </div>
 
@@ -27,7 +27,20 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </div>
-  
+
+ <hr/>
+
+<h2 align="center"> 👾 Languages-Tools-Frameworks 🛠️ </h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sql,r,python,excel,java,js,html,css,react,firebase,vscode,github" />
+  </a>
+</div>
+
+<hr/>
+
+
 
 <!--
 **finnerrrrr/finnerrrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
