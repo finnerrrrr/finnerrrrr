@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+Visitor+%F0%9F%91%8B;I'm+Elgin!+%F0%9F%A4%9D" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Hey+Visitor+%F0%9F%91%8B;I'm+Elgin!+%F0%9F%A4%9D" alt="Typing SVG" width="700">
   </a>
 </h1>
+
 
 <h3 algin = "center"> Second-Year Computing Student Majoring in Business Analytics! </h3>
 
