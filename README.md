@@ -11,9 +11,9 @@
 
 <div align = "center">
   
-  🔭 I’m currently working on **an Excel Project**
+  🔭 I’m currently working on **Case Competitions**
   
-  🌱 I’m currently learning **SQL, Excel, Python & Java**
+  🌱 I’m currently learning **SQL, Python & Java**
   
   💬 Ask me about **What do Business Analysts even do?... or anything [here!](https://github.com/finnerrrrr/finnerrrrr/issues)**
 
