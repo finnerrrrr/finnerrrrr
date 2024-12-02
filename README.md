@@ -11,7 +11,7 @@
 
 <div align = "center">
   
-  🔭 I’m currently working on a **Data Cleaning Project & Internship**
+  🔭 I’m currently working on a **Data Cleaning Project & my Internship!**
   
   🌱 I’m currently learning **ML, R & Java**
   
